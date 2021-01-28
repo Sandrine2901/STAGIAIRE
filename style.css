@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: rgb(92, 87, 87);
+}
+h1 {
+    color: rgb(20, 20, 70);
+}
+.table {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+th {
+    border: thin solid #06142e;
+    padding: 5px;
+    background-color: #D0E3FA;
+    color: white;
+    background-color: rgb(255, 8, 123);
+}
+td {
+    border: thin solid #06142e;
+    padding: 5px;
+    text-align: center;
+    background-color: #ffffff;
+}
+.membre {
+    width: 15%;
+    font-weight: bold;
+}
+.prenom, .nom {
+    text-align: left;
+}
+strong {
+    color: rgb(97, 5, 48);
+}
+.ajout {
+    background-color: rgb(140, 195, 240);
+}
+#ref_ajout {
+    color: rgb(97, 5, 48);
+}
+
+.btn{
+    color: red;
+}
